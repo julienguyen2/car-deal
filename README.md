@@ -5,7 +5,7 @@ This project is a one-page website designed for Cardeal, a fictional company off
 Check out the live demo of [CarDeal](https://stirring-meerkat-549e8a.netlify.app/).
 
 ## Tools & Technologies
-- Frontend: HTML, SCSS, Bootstrap
-- Backend: Node.js
-- Version Control: Git, GitHub
-- Programming Environment: Visual Studio Code
+- **Frontend**: HTML, SCSS, Bootstrap
+- **Backend**: Node.js
+- **Version Control**: Git, GitHub
+- **Programming Environment**: Visual Studio Code
